@@ -1,17 +1,23 @@
 ## Python.
 
 *  What is Python?
-    It is an intepreted, object-oriented, high level programming language.
+    **It is an intepreted, object-oriented, high level programming language.**
+
 *  In what areas can we use the Python Language?
-    Python can be used in areas such as data analysis and machine learning as well as building mobile and web applications.
+    **Python can be used in areas such as data analysis and machine learning as well as building mobile and web applications.**
 *  What is the disadvantage of using Python compared to other       compiled languages like Java?
-    Difficulty in Using other languages for developers.
-    Weak in mobile computing.
-    Gets slow in Speed as it uses an intepreter rather than a compiler.
-    Run time errors and requires more testing.
-    Underdeveloped database Access layers unlike JDBC and ODBC.
+    * Difficulty in Using other languages for developers.
+    * Weak in mobile computing.
+    * Gets slow in Speed as it uses an interpreter rather than a compiler.
+    * Run time errors and requires more testing.
+    * Underdeveloped database Access layers unlike ``JDBC and ODBC.``
 * Define a Python module, script and package.
+  * A script is a directly executable piece of code run by itself.
+  * A module is a library, imported by other pieces of code.
+  * A package is a directory of Python modules.
+
 * What is the difference in using Python 2+ and Python 3+?
+    ``Python3+ is a newer version of Python however Python2+ has more third party libraries compared to Python3.``
 * Name the top 3 programmer caused Python errors.
 * What is the difference between a list and a tuple ?
 * What is a set?
