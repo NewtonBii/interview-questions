@@ -1,10 +1,10 @@
-###Python.
+## Python.
 
-* 1. What is Python?
+*  What is Python?
     It is an intepreted, object-oriented, high level programming language.
-* 2. In what areas can we use the Python Language?
+*  In what areas can we use the Python Language?
     Python can be used in areas such as data analysis and machine learning as well as building mobile and web applications.
-* 3. What is the disadvantage of using Python compared to other compiled languages like Java?
+*  What is the disadvantage of using Python compared to other compiled languages like Java?
     Difficulty in Using other languages for developers.
     Weak in mobile computing.
     Gets slow in Speed as it uses an intepreter rather than a compiler.
