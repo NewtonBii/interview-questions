@@ -6,11 +6,11 @@
 *  In what areas can we use the Python Language?
     ``Python can be used in areas such as data analysis and machine learning as well as building mobile and web applications.``
 *  What is the disadvantage of using Python compared to other       compiled languages like Java?
-    * Difficulty in Using other languages for developers.
+  `` * Difficulty in Using other languages for developers.
     * Weak in mobile computing.
     * Gets slow in Speed as it uses an interpreter rather than a compiler.
     * Run time errors and requires more testing.
-    * Underdeveloped database Access layers unlike ``JDBC and ODBC.``
+    * Underdeveloped database Access layers unlike JDBC and ODBC.``
 * Define a Python module, script and package.
   * A script is a directly executable piece of code run by itself.
   * A module is a library, imported by other pieces of code.
