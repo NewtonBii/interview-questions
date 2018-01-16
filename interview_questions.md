@@ -6,11 +6,11 @@
 *  In what areas can we use the Python Language?
     ``Python can be used in areas such as data analysis and machine learning as well as building mobile and web applications.``
 *  What is the disadvantage of using Python compared to other       compiled languages like Java?
-  `` * Difficulty in Using other languages for developers.
+    * Difficulty in Using other languages for developers.
     * Weak in mobile computing.
     * Gets slow in Speed as it uses an interpreter rather than a compiler.
     * Run time errors and requires more testing.
-    * Underdeveloped database Access layers unlike JDBC and ODBC.``
+    * Underdeveloped database Access layers unlike ``JDBC and ODBC.``
 * Define a Python module, script and package.
   * A script is a directly executable piece of code run by itself.
   * A module is a library, imported by other pieces of code.
@@ -60,8 +60,11 @@
 * What is a Model ?
   ``It is a way of abstracting and giving common interface to data.``
 * What is an ORM and how does it differ from conventional ways of  interacting with a database?
+  ``Object Relational Mappers is a code library that automates the transfer of data stored in relational databases tables into objects that are more commonly used in application code. It provides a high-level abstraction that allows a developer to write python code instead of SQL``
 * What is needed to connect to SQLALCHEMY?
+  ``A connection which is psycopg2 and an engine such as postgresql.``
 * What is an application factory?
+  ``An app factory is where all the app extensions are initialized and injected and the app blueprints are registered``
 * What is a blueprint?
 * How can you connect a blueprint to an application factory?
 * What is a migration file?
