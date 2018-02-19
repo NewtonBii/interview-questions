@@ -66,6 +66,7 @@
 * What is an application factory?
   ``An app factory is where all the app extensions are initialized and injected and the app blueprints are registered``
 * What is a blueprint?
+``This is a version of the app that performs different functions in the app.``
 * How can you connect a blueprint to an application factory?
 * What is a migration file?
 * Why are migration files useful?
